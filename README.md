@@ -188,3 +188,7 @@ Tested end to end with Puppeteer, including byte-for-byte stream verification.<b
 ---
 
 <p align="center"><i>"And that each person will only have what they endeavoured towards."</i></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ammarqaisar11a55&style=flat-square&color=0969da&label=Profile+views" alt="Profile views" />
+</p>
