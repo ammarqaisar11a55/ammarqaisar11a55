@@ -121,8 +121,6 @@ Tested end to end with Puppeteer, including byte-for-byte stream verification.<b
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
@@ -153,6 +151,27 @@ Tested end to end with Puppeteer, including byte-for-byte stream verification.<b
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+
+---
+
+### GitHub activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ammarqaisar11a55&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarqaisar11a55&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ammarqaisar11a55&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ammarqaisar11a55/ammarqaisar11a55/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ammarqaisar11a55/ammarqaisar11a55/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/ammarqaisar11a55/ammarqaisar11a55/output/github-snake.svg" alt="Contribution snake" />
+  </picture>
+</p>
 
 ---
 
