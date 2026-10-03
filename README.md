@@ -1,6 +1,10 @@
 <h1 align="center">Muhammad Ammar Qaisar</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full+Stack+Developer;Building+Developer+Tools;Competitive+Programmer" alt="Software Engineering Student · Full Stack Developer · Building Developer Tools · Competitive Programmer" />
+</p>
+
+<p align="center">
   I build desktop, mobile and web tools, and solve a problem most days.<br />
   BS Software Engineering @ The University of Lahore · CGPA 3.89
 </p>
