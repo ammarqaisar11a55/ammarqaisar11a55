@@ -167,6 +167,18 @@ Tested end to end with Puppeteer, including byte-for-byte stream verification.<b
 
 <p align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ammarqaisar11a55/ammarqaisar11a55/output/activity-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ammarqaisar11a55/ammarqaisar11a55/output/activity-graph.svg" />
+    <img src="https://raw.githubusercontent.com/ammarqaisar11a55/ammarqaisar11a55/output/activity-graph.svg" alt="Contribution graph" width="100%" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=ammarqaisar11a55&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub trophies" />
+</p>
+
+<p align="center">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ammarqaisar11a55/ammarqaisar11a55/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ammarqaisar11a55/ammarqaisar11a55/output/github-snake.svg" />
     <img src="https://raw.githubusercontent.com/ammarqaisar11a55/ammarqaisar11a55/output/github-snake.svg" alt="Contribution snake" />
